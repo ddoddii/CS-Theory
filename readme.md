@@ -2,14 +2,14 @@
 
 
 
-## [Operating System](https://github.com/ddoddii/OS-CA-Study/tree/main/Operating%20System)
+## [Operating System](https://github.com/ddoddii/CS-Theory/tree/main/Operating%20System)
 
 - [CSI3101] 운영체제 
 - Operating Systems: Three Easy Pieces
 
-## [Computer Architecture](https://github.com/ddoddii/OS-CA-Study/tree/main/Computer%20Architecture)
+## [Computer Architecture](https://github.com/ddoddii/CS-Theory/tree/main/Computer%20Architecture)
 
 - [CSI3102] 컴퓨터 아키텍쳐
 - Computer Organization and Design 5th edition
 
-## Computer Systems: A Programmer's Perspective
+## [Computer Systems: A Programmer's Perspective](https://github.com/ddoddii/CS-Theory/tree/main/CSAPP)
