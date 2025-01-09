@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="35" height="35" /> 운영체제 & 컴퓨터 아키텍쳐 스터디
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="High Voltage" width="35" height="35" /> Computer Science Theory Study
 
 
 
@@ -11,3 +11,5 @@
 
 - [CSI3102] 컴퓨터 아키텍쳐
 - Computer Organization and Design 5th edition
+
+## Computer Systems: A Programmer's Perspective
